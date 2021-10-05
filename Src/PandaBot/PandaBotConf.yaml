@@ -1,0 +1,13 @@
+# PandaBot Configuration file
+---
+  # System Settings
+  imagePath: ./SrcImage/last_pic.jpg
+  positionPath: ./SrcImage/last_pos.yaml
+  sleepTime: 15
+
+  # Twitter API Settings
+  consumerKey: o0TJQfY7ygZ0OSeLx5XeifNVZ
+  consumerSecretKey: bSEdu7mrpyL1FgLtzJQX0Uy9d7vlyS3ABg9SzN678AJ5f1WqCK
+  accessToken: 1445029333664423938-INKF3EqtREf6oJtElqLPpHiZOOgllB
+  accessTokenSecret: EKN6Bz4WndfY87WyEk7liSghAHuNVZjTM57ldlLGp0k7Q
+...
